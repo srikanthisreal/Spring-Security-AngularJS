@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accounts>
+	<account accountNumber='1231' customerName="userOne" balance="100"
+		password="passwordOne" />
+	<account accountNumber='1232' customerName="userTwo" balance="200"
+		password="passwordTwo" />
+	<account accountNumber='1233' customerName="userThree" balance="300"
+		password="passwordThree" />
+</accounts>
