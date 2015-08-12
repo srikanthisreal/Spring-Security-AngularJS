@@ -1,0 +1,1 @@
+alert("Hello Madam, I am from theme002");
